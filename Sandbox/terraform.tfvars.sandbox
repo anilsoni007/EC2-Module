@@ -1,0 +1,5 @@
+instance_name = "TF-instance"
+subnet_id     = "subnet-0777f74c2f33b91a9"
+environment   = "Sandbox"
+instance_type = "t2.micro"
+security_group = "sg-06337656eb9a57958"
